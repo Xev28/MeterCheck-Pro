@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MeterCheck Pro</string>
+    <string name="title_activity_main">MeterCheck Pro</string>
+    <string name="package_name">com.metercheck.pro</string>
+    <string name="custom_url_scheme">com.metercheck.pro</string>
+</resources>
